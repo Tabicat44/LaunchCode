@@ -1,0 +1,44 @@
+<!DOCTYPE Html>
+<html>
+  <head>
+    <title> David Dobrik Fansite! </title>
+    </head>
+    <body>
+        <!-- Begin Container for Website -->
+        <div id="container"></div>
+            <header>
+                <h1>Welcome to my David Dobrik Fansite!</h1>
+                <!-- Start Navigation-->
+                <nav id="main-nav">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+
+            </header>
+
+        </aside>
+            <section id="content-right">
+            <h3> This is my Aside Container</h3>
+            <p>
+                <img src...... height ="30%" width="30%" alt="Photo of David Dobrik"
+            </p>
+        <section id="content-right">
+
+        </section>
+        <footer>
+            &copy; Copyright 2019. All Rights Reserved
+            <nav id="footer-nav">
+            <nav>
+                <ul>
+                    <li><a href="pictures.html">PIctures</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+
+                </ul>
+            </nav>
+        </footer>
+            </body>
+    </body>
+<html>
